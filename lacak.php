@@ -9,7 +9,7 @@ function cari($nama){
 		sleep(1);
 	}
 	echo "\n\n\nNama\t\t\tAlamat\t\t\tNIK";
-	echo "\n$target\t\tJalan Cempaka 4 Rengas\t5173964026183\n\n\n";
+	echo "\n$target\t\tJalan Mendua 1\t5173964026183\n\n\n";
 }
 
 cari("asu");
